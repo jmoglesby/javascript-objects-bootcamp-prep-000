@@ -1,4 +1,4 @@
-var playlist = {'rend': ['joy', 'simplicity'], 'culture': 'even so'};
+var playlist = {rend: 'joy', culture: 'even so'};
 
 function updatePlaylist(playlist, artist, song) {
   playlist[artist] = song;
